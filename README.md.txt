@@ -1,0 +1,1 @@
+These are a few randomly chosen c++ files done at college. None are overly complex, therefore I plan to write a new c++ program soon.
